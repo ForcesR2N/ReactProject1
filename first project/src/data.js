@@ -2,7 +2,7 @@ export const getData = () => {
   return [
     {
       id: 1,
-      Nama: "Rizzal",
+      Nama: "",
       Kelas: "10 PPLG 1",
       Alamat: "Besito",
       Foto: "_DSC8361.JPEG"
